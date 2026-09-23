@@ -79,3 +79,18 @@ rag-assistant/
 │
 ├── README.md
 └── .gitignore
+## Preview
+
+The screenshots below show the Lotus web interface, including the document sidebar, chat area, and document-based question answering.
+
+### 1. Document Selection
+
+![Lotus Document Selection](docs/screenshots/1.png)
+
+### 2. Chat Interface
+
+![Lotus Chat Interface](docs/screenshots/2.png)
+
+### 3. Document-Based Answer
+
+![Lotus Document Answer](docs/screenshots/3.png)
