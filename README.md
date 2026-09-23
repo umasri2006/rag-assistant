@@ -44,7 +44,6 @@ cd frontend
 npm install
 npm run dev
 ```
-
 Frontend: `http://localhost:5173`
 
 ## Tech Stack
@@ -55,7 +54,6 @@ Frontend: `http://localhost:5173`
 **Database:** ChromaDB
 
 ## Project Structure
-
 ```text
 rag-assistant/
 ├── backend/
@@ -75,7 +73,7 @@ rag-assistant/
 │
 ├── README.md
 └── .gitignore
-
+```
 ## Preview
 ### 1. Document Selection
 
