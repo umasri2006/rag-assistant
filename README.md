@@ -54,10 +54,6 @@ Frontend: `http://localhost:5173`
 **AI:** Llama 3.2, Ollama, Hugging Face Embeddings  
 **Database:** ChromaDB
 
-## Preview
-
-![Lotus Preview](docs/screenshots/lotus-preview.png)
-
 ## Project Structure
 
 ```text
@@ -79,18 +75,16 @@ rag-assistant/
 │
 ├── README.md
 └── .gitignore
+
 ## Preview
-
-The screenshots below show the Lotus web interface, including the document sidebar, chat area, and document-based question answering.
-
 ### 1. Document Selection
 
-![Lotus Document Selection](docs/screenshots/1.png)
+![Lotus Document Selection](docs/screenshot/1.png)
 
 ### 2. Chat Interface
 
-![Lotus Chat Interface](docs/screenshots/2.png)
+![Lotus Chat Interface](docs/screenshot/2.png)
 
 ### 3. Document-Based Answer
 
-![Lotus Document Answer](docs/screenshots/3.png)
+![Lotus Document Answer](docs/screenshot/3.png)
