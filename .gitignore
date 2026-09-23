@@ -1,0 +1,69 @@
+
+---
+
+# `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+dist-ssr/
+.vite/
+*.tsbuildinfo
+
+# ChromaDB / local data
+chroma_db/
+chroma/
+chromadb/
+data/
+storage/
+*.chroma
+
+# Local models / caches
+.huggingface/
+.cache/
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs / temporary files
+*.log
+*.tmp
+tmp/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
